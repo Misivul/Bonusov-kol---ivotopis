@@ -1,2 +1,2 @@
-# Bonusov-kol---ivotopis
+# Bonusovy ukol - zivotopis
 začátky HTML a CSS

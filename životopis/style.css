@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.blok {
+  justify-content: center;
+}
+table {
+  text-align: center;
+  width: 60%;
+}
+img {
+  width: 30%;
+}
+.obrazek {
+  text-align: center;
+}
+body {
+  background-color: lightskyblue;
+}
+.osobníúdaje {
+  font-style: oblique;
+}
